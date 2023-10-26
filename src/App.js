@@ -81,7 +81,7 @@ const RatingAction = ({
 				className="flex h-1/4 w-full items-center justify-start"
 				key={"model1"}
 				variants={item2}>
-				<div className="flex p-3 h-12 w-12 overflow-hidden rounded-full bg-Very_Dark_Blue">
+				<div className="flex p-3 h-12 w-12 overflow-hidden rounded-full bg-[#8A909936]">
 					<img
 						src="images/icon-star.svg"
 						alt=""
