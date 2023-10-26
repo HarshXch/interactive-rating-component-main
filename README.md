@@ -29,7 +29,7 @@ Check out the live demo [here](https://qr-codeharshx.netlify.app).
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/HarshXch/qr-code-component.git`
+1. Clone the repository: `git clone https://github.com/HarshXch/interactive-rating-component-main.git`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm start`
 
