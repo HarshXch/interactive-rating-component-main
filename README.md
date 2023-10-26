@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Interactive-rating-component-main
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check out the live demo [here](https://qr-codeharshx.netlify.app).
 
-## Available Scripts
+## Preview
 
-In the project directory, you can run:
+<div style="display: grid; justify-items: center;">
+  <img src="design/../public/design/desktop-preview.jpg" alt="Project Preview" style="width: 100%; height: auto; border-radius: 5px;">
+</div>
 
-### `npm start`
+📱 A QR Code Component built using React.js and Tailwind CSS.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🚀 This project was completed as a part of the QR Code Component challenge on Frontend Mentor. It allows users to generate and display QR codes for various purposes.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✨ Simple and easy-to-use UI for generating QR codes.
+✨ Responsive design suitable for different screen sizes.
+✨ Customizable options for QR code generation.
+✨ Fast and efficient QR code rendering.
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🔧 React.js
+🎨 Tailwind CSS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Usage
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository: `git clone https://github.com/HarshXch/qr-code-component.git`
+2. Install dependencies: `npm install`
+3. Run the development server: `npm start`
 
-### `npm run eject`
+## Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🤝 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/HarshXch/qr-code-component/issues).
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Acknowledgements
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🙏 Special thanks to [Frontend Mentor](https://www.frontendmentor.io/) for providing the QR Code Component challenge.

@@ -43,9 +43,9 @@ function App() {
 				variants={container}
 				initial="hidden"
 				animate="visible">
-				>{" "}
+				
 				<h1 class="font-mono from-neutral-300 text-center text-White">
-					Challenge by{" "}
+					Challenge by
 					<a
 						href="https://www.frontendmentor.io"
 						class="font-bold font-mono text-lg align-middle  text-transparent bg-clip-text bg-gradient-to-br text-primary  ">
