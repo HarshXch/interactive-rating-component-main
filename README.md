@@ -5,7 +5,7 @@ Check out the live demo [here](https://qr-codeharshx.netlify.app).
 ## Preview
 
 <div style="display: grid; justify-items: center;">
-  <img src="design/../public/design/desktop-preview.jpg" alt="Project Preview" style="width: 100%; height: auto; border-radius: 5px;">
+  <img src="./public/design/desktop-preview.jpg" alt="Project Preview" style="width: 100%; height: auto; border-radius: 5px;">
 </div>
 
 📱 A QR Code Component built using React.js and Tailwind CSS.
@@ -25,6 +25,7 @@ Check out the live demo [here](https://qr-codeharshx.netlify.app).
 
 🔧 React.js
 🎨 Tailwind CSS
+🚀 Framer Motion for animation
 
 ## Usage
 
